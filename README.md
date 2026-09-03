@@ -10,7 +10,7 @@ An interactive AI study assistant built with **Streamlit** and **Groq (Llama 3)*
 
 ## 📹 Demo Video
 Watch the 3-minute application walkthrough:  
-👉 **[Click Here to Watch the Demo Video](https://your-video-link-here.com)**
+👉 **[Click Here to Watch the Demo Video](https://drive.google.com/file/d/1N1RSYfRGblkljKX9hb8KOzmTdMUM03ux/view?usp=sharing)**
 
 ---
 
