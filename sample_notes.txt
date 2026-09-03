@@ -1,0 +1,22 @@
+PYTHON PROGRAMMING CORE CONCEPTS
+
+1. Data Structures:
+- Lists: Ordered, mutable sequences. Example: my_list = [1, 2, 3]
+- Tuples: Ordered, immutable sequences. Example: my_tuple = (1, 2, 3)
+- Dictionaries: Unordered key-value pairs. Example: my_dict = {"name": "Alice", "age": 20}
+- Sets: Unordered collections of unique elements. Example: my_set = {1, 2, 3}
+
+2. Control Flow:
+- Loops: 'for' loops iterate over sequences; 'while' loops execute as long as a condition is True.
+- List Comprehensions: Compact syntax for creating lists. Syntax: [expression for item in iterable if condition]
+
+3. Functions & Scope:
+- Defined using the 'def' keyword.
+- Parameters can have default values.
+- Positional arguments vs Keyword arguments (*args and **kwargs).
+- Global scope vs Local scope vs Enclosing scope.
+
+4. Object-Oriented Programming (OOP):
+- Classes are blueprints for creating objects.
+- In Python, '__init__' is the constructor method used to initialize object attributes.
+- Four main pillars: Encapsulation, Abstraction, Inheritance, and Polymorphism.
